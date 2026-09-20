@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Krishna 👋</h1>
-
-<h3 align="center">B.Tech CSE student who'd rather build the thing than wait for someone to make it for me.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krishna+%F0%9F%91%8B;B.Tech+CSE+Student;Solo+Indie+Game+Developer;Currently+Building%3A+APASMARA" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishnaSehgal07&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KrishnaSehgal07&style=flat-square&color=8A2BE2" alt="profile views" />
 </p>
 
 ---
@@ -47,12 +47,19 @@ Built ~90% in Blueprint, with C++ dropped in exactly where the math needs it —
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaSehgal07&show_icons=true&theme=radical&hide_border=true" alt="Krishna's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSehgal07&theme=radical&hide_border=true" alt="Krishna's GitHub streak" height="165"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaSehgal07/KrishnaSehgal07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaSehgal07/KrishnaSehgal07/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/KrishnaSehgal07/KrishnaSehgal07/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+> ⚠️ **One-time setup required** — the snake animation above won't render until you add the workflow file below to this repo. It's not a link you paste, it's a GitHub Action that generates the image itself, in your own repo, on a schedule. See the setup file and steps that come with this.
 
 ---
 
