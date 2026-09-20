@@ -59,7 +59,6 @@ Built ~90% in Blueprint, with C++ dropped in exactly where the math needs it —
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/KrishnaSehgal07/KrishnaSehgal07/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-> ⚠️ **One-time setup required** — the snake animation above won't render until you add the workflow file below to this repo. It's not a link you paste, it's a GitHub Action that generates the image itself, in your own repo, on a schedule. See the setup file and steps that come with this.
 
 ---
 
